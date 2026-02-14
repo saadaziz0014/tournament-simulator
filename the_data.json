@@ -1,0 +1,183 @@
+{
+  "teams": [
+    {
+      "name": "Lahore Qalandars",
+      "players": [
+        {"name": "Shaheen Shah Afridi", "role": "Left-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Abdullah Shafique", "role": "Batter", "country": "Pakistan"},
+        {"name": "Sikandar Raza", "role": "All-rounder (Off Spinner)", "country": "Zimbabwe"},
+        {"name": "Mohammad Naeem", "role": "Batter", "country": "Pakistan"},
+        {"name": "Mustafizur Rahman", "role": "Left-arm Fast Bowler", "country": "Bangladesh"},
+        {"name": "Haris Rauf", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Usama Mir", "role": "Leg Spinner", "country": "Pakistan"},
+        {"name": "Fakhar Zaman", "role": "Batter", "country": "Pakistan"},
+        {"name": "Ubaid Shah", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Haseebullah Khan", "role": "Wicket-keeper Batter", "country": "Pakistan"},
+        {"name": "Mohammad Farooq", "role": "Right-arm Medium Pacer", "country": "Pakistan"},
+        {"name": "Dasun Shanaka", "role": "All-rounder (Medium Pacer)", "country": "Sri Lanka"},
+        {"name": "Parvez Hossain Emon", "role": "Batter", "country": "Bangladesh"},
+        {"name": "Asif Ali", "role": "Batter", "country": "Pakistan"},
+        {"name": "Tayyab Tahir", "role": "Batter", "country": "Pakistan"},
+        {"name": "Gudakesh Motie", "role": "Left-arm Orthodox Spinner", "country": "Guyana"}
+      ]
+    },
+    {
+      "name": "Karachi Kings",
+      "players": [
+        {"name": "Hasan Ali", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Abbas Afridi", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Khushdil Shah", "role": "Batter", "country": "Pakistan"},
+        {"name": "Saad Baig", "role": "Wicket-keeper Batter", "country": "Pakistan"},
+        {"name": "Moeen Ali", "role": "All-rounder (Off Spinner)", "country": "England"},
+        {"name": "David Warner", "role": "Batter", "country": "Australia"},
+        {"name": "Azam Khan", "role": "Wicket-keeper Batter", "country": "Pakistan"},
+        {"name": "Salman Ali Agha", "role": "All-rounder (Off Spinner)", "country": "Pakistan"},
+        {"name": "Shahid Aziz", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Mir Hamza", "role": "Left-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Adam Zampa", "role": "Leg Spinner", "country": "Australia"},
+        {"name": "Mohammad Hamza Sohail", "role": "Batter", "country": "Pakistan"},
+        {"name": "Aqib Ilyas", "role": "All-rounder (Off Spinner)", "country": "Oman"},
+        {"name": "Khuzaima Bin Tanveer", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Johnson Charles", "role": "Wicket-keeper Batter", "country": "West Indies"},
+        {"name": "Muhammad Waseem", "role": "Batter", "country": "United Arab Emirates"},
+        {"name": "Ihsanullah", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Rizwanullah", "role": "Batter", "country": "Pakistan"}
+      ]
+    },
+    {
+      "name": "Islamabad United",
+      "players": [
+        {"name": "Shadab Khan", "role": "All-rounder (Leg Spinner)", "country": "Pakistan"},
+        {"name": "Salman Irshad", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Andries Gous", "role": "Wicket-keeper Batter", "country": "United States"},
+        {"name": "Devon Conway", "role": "Batter", "country": "New Zealand"},
+        {"name": "Faheem Ashraf", "role": "All-rounder (Right-arm Medium)", "country": "Pakistan"},
+        {"name": "Mehran Mumtaz", "role": "Left-arm Orthodox Spinner", "country": "Pakistan"},
+        {"name": "Max Bryant", "role": "Batter", "country": "Australia"},
+        {"name": "Mark Chapman", "role": "Batter", "country": "New Zealand"},
+        {"name": "Mohammad Wasim Jr", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Mir Hamza Sajjad", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Sameer Minhas", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Sameen Gul", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Blessing Muzarabani", "role": "Right-arm Fast Bowler", "country": "Zimbabwe"},
+        {"name": "Haider Ali", "role": "Batter", "country": "Pakistan"},
+        {"name": "Richard Gleeson", "role": "Right-arm Fast Bowler", "country": "England"},
+        {"name": "Mohammad Hasnain", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Dipendra Singh Airee", "role": "All-rounder (Off Spinner)", "country": "Nepal"}
+      ]
+    },
+    {
+      "name": "Peshawar Zalmi",
+      "players": [
+        {"name": "Babar Azam", "role": "Batter", "country": "Pakistan"},
+        {"name": "Sufiyan Muqeem", "role": "Left-arm Orthodox Spinner", "country": "Pakistan"},
+        {"name": "Abdul Samad", "role": "Batter", "country": "Pakistan"},
+        {"name": "Ali Raza", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Aaron Hardie", "role": "All-rounder (Right-arm Medium)", "country": "Australia"},
+        {"name": "Aamir Jamal", "role": "All-rounder (Right-arm Fast)", "country": "Pakistan"},
+        {"name": "Mohammad Haris", "role": "Wicket-keeper Batter", "country": "Pakistan"},
+        {"name": "Khalid Usman", "role": "All-rounder (Left-arm Orthodox)", "country": "Pakistan"},
+        {"name": "Abdul Subhan", "role": "Batter", "country": "Pakistan"},
+        {"name": "James Vince", "role": "Batter", "country": "England"},
+        {"name": "Michael Bracewell", "role": "All-rounder (Off Spinner)", "country": "New Zealand"},
+        {"name": "Kusal Mendis", "role": "Wicket-keeper Batter", "country": "Sri Lanka"},
+        {"name": "Iftikhar Ahmed", "role": "All-rounder (Off Spinner)", "country": "Pakistan"},
+        {"name": "Nahid Rana", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Mirza Tahir Baig", "role": "Batter", "country": "Pakistan"}
+      ]
+    },
+    {
+      "name": "Quetta Gladiators",
+      "players": [
+        {"name": "Abrar Ahmed", "role": "Leg Spinner", "country": "Pakistan"},
+        {"name": "Usman Tariq", "role": "Batter", "country": "Pakistan"},
+        {"name": "Hasan Nawaz", "role": "Batter", "country": "Pakistan"},
+        {"name": "Shamyl Hussain", "role": "Batter", "country": "Pakistan"},
+        {"name": "Spencer Johnson", "role": "Left-arm Fast Bowler", "country": "Australia"},
+        {"name": "Rilee Rossouw", "role": "Batter", "country": "South Africa"},
+        {"name": "Faisal Akram", "role": "Leg Spinner", "country": "Pakistan"},
+        {"name": "Arafat Minhas", "role": "All-rounder (Left-arm Orthodox)", "country": "Pakistan"},
+        {"name": "Jahandad Khan", "role": "All-rounder (Right-arm Medium)", "country": "Pakistan"},
+        {"name": "Khawaja Mohammad Nafay", "role": "Batter", "country": "Pakistan"},
+        {"name": "Wasim Akram Jnr", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Khan Zaib", "role": "Batter", "country": "Pakistan"},
+        {"name": "Bismillah Khan", "role": "Wicket-keeper Batter", "country": "Pakistan"},
+        {"name": "Saqib Khan", "role": "Batter", "country": "Pakistan"},
+        {"name": "Brett Hampton", "role": "All-rounder (Right-arm Medium)", "country": "New Zealand"},
+        {"name": "Sam Harper", "role": "Wicket-keeper Batter", "country": "Australia"},
+        {"name": "Bevon Jacobs", "role": "Batter", "country": "South Africa"},
+        {"name": "Saud Shakeel", "role": "All-rounder (Left-arm Orthodox)", "country": "Pakistan"},
+        {"name": "Ben McDermott", "role": "Wicket-keeper Batter", "country": "Australia"},
+        {"name": "Tom Curran", "role": "All-rounder (Right-arm Medium)", "country": "England"}
+      ]
+    },
+    {
+      "name": "Rawalpindi",
+      "players": [
+        {"name": "Mohammad Rizwan", "role": "Wicket-keeper Batter", "country": "Pakistan"},
+        {"name": "Sam Billings", "role": "Wicket-keeper Batter", "country": "England"},
+        {"name": "Zaman Khan", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Yasir Khan", "role": "Batter", "country": "Pakistan"},
+        {"name": "Naseem Shah", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Rishad Hossain", "role": "Leg Spinner", "country": "Bangladesh"},
+        {"name": "Daryl Mitchell", "role": "All-rounder (Right-arm Medium)", "country": "New Zealand"},
+        {"name": "Mohammad Amir", "role": "Left-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Abdullah Fazal", "role": "Batter", "country": "Pakistan"},
+        {"name": "Amad Butt", "role": "All-rounder (Right-arm Fast)", "country": "Pakistan"},
+        {"name": "Dian Forrester", "role": "Batter", "country": "South Africa"},
+        {"name": "Laurie Evans", "role": "Batter", "country": "England"},
+        {"name": "Asif Afridi", "role": "All-rounder (Left-arm Orthodox)", "country": "Pakistan"},
+        {"name": "Kamran Ghulam", "role": "All-rounder (Off Spinner)", "country": "Pakistan"},
+        {"name": "Fawad Ali", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Mohammad Amir Khan", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Shahzaib Khan", "role": "Batter", "country": "Pakistan"},
+        {"name": "Jake Fraser-McGurk", "role": "Batter", "country": "Australia"}
+      ]
+    },
+    {
+      "name": "Sialkot Stallionz",
+      "players": [
+        {"name": "Mohammad Nawaz", "role": "All-rounder (Left-arm Orthodox)", "country": "Pakistan"},
+        {"name": "Mohammad Salman Mirza", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Ahmed Daniyal", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Saad Masood", "role": "Batter", "country": "Pakistan"},
+        {"name": "Steve Smith", "role": "Batter", "country": "Australia"},
+        {"name": "Jahanzaib Sultan", "role": "Batter", "country": "Pakistan"},
+        {"name": "Sahibzada Farhan", "role": "Batter", "country": "Pakistan"},
+        {"name": "Ashton Turner", "role": "Batter", "country": "Australia"},
+        {"name": "Peter Siddle", "role": "Right-arm Fast Bowler", "country": "Australia"},
+        {"name": "Tabraiz Shamsi", "role": "Left-arm Orthodox Spinner", "country": "South Africa"},
+        {"name": "Lachlan Shaw", "role": "Wicket-keeper Batter", "country": "Australia"},
+        {"name": "Delano Potgieter", "role": "All-rounder (Right-arm Medium)", "country": "South Africa"},
+        {"name": "Josh Philippe", "role": "Wicket-keeper Batter", "country": "Australia"},
+        {"name": "Shan Masood", "role": "Batter", "country": "Pakistan"},
+        {"name": "Momin Qamar", "role": "Batter", "country": "Pakistan"},
+        {"name": "Muhammad Awais Zafar", "role": "Batter", "country": "Pakistan"}
+      ]
+    },
+    {
+      "name": "Hyderabad Houston Kingsmen",
+      "players": [
+        {"name": "Saim Ayub", "role": "Batter", "country": "Pakistan"},
+        {"name": "Akif Javed", "role": "Left-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Maaz Sadaqat", "role": "All-rounder (Left-arm Orthodox)", "country": "Pakistan"},
+        {"name": "Marnus Labuschagne", "role": "Batter (Off Spinner)", "country": "Australia"},
+        {"name": "Usman Khan", "role": "Batter", "country": "Pakistan"},
+        {"name": "Mohammad Ali", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Kusal Perera", "role": "Wicket-keeper Batter", "country": "Sri Lanka"},
+        {"name": "Muhammad Irfan Khan", "role": "Batter", "country": "Pakistan"},
+        {"name": "Hassan Khan", "role": "All-rounder (Left-arm Orthodox)", "country": "Pakistan"},
+        {"name": "Shayan Jahangir", "role": "Batter", "country": "Pakistan"},
+        {"name": "Ottniel Baartman", "role": "Right-arm Fast Bowler", "country": "South Africa"},
+        {"name": "Hammad Azam", "role": "All-rounder (Right-arm Medium)", "country": "Pakistan"},
+        {"name": "Riley Meredith", "role": "Right-arm Fast Bowler", "country": "Australia"},
+        {"name": "Sharjeel Khan", "role": "Batter", "country": "Pakistan"},
+        {"name": "Asif Mehmood", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Hunain Shah", "role": "Right-arm Fast Bowler", "country": "Pakistan"},
+        {"name": "Rizwan Mehmood", "role": "Batter", "country": "Pakistan"},
+        {"name": "Saad Ali", "role": "Batter", "country": "Pakistan"},
+        {"name": "Tayyab Arif", "role": "Batter", "country": "Pakistan"}
+      ]
+    }
+  ]
+}
